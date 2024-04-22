@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rifki Eka Putra a.k.a SkyDreamsID</h1>
+<h1 align="center">Hi 👋, I'm Rifki a.k.a SkyDreamsID</h1>
 <h3 align="center">A Programmer & Automotive Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skydreamsid&label=Profile%20views&color=0e75b6&style=flat" alt="skydreamsid" /> </p>
 
-<p align="left">- 🌱 I’m currently learning Python</p>
+- 🌱 I’m currently learning Python
+- 🎮 I play [GTA SA-MP](https://jogjagamers.org)
+- 🎵 I like Electronic & JPOP songs
+- 🙂 I'm introvert
 
 <p align="left"> <a href="https://twitter.com/skydreams07" target="blank"><img src="https://img.shields.io/twitter/follow/skydreams07?logo=twitter&style=for-the-badge" alt="skydreams07" /></a> </p>
 
