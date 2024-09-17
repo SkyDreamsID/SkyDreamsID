@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/skydreams07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skydreams07" height="30" width="40" /></a>
+<a href="https://twitter.com/rifkiekap07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skydreams07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rifki-eka-putra-796a15293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifki eka putra" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rifki.e.putra.58/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rifki eka putra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rifki.e.putra.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rifki eka putra" height="30" width="40" /></a>
 <a href="https://instagram.com/rifkiekap07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rifkiekap07" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@skydreamsid07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@skydreamsid07" height="30" width="40" /></a>
 <a href="https://discord.gg/AUrKZj7z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AUrKZj7z" height="30" width="40" /></a>
