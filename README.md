@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skydreamsid&label=Profile%20views&color=0e75b6&style=flat" alt="skydreamsid" /> </p>
 
 - 🌱 I’m currently learning Python
-- 🎮 I play [GTA SA-MP](https://jogjagamers.org)
-- 🎵 I like Electronic & JPOP songs
-- 🙂 I'm introvert
+- 🎮 I play [GTA SA-MP]([https://jogjagamers.org](https://jogjagamers.org/profile/116681-skydreams-ff/))
+- 🎵 I like [Electronic](https://open.spotify.com/playlist/5VKwdNbqOUzZ8ejk7k7GT3?si=06a21a8d6caa43a1) & [JPOP](https://open.spotify.com/playlist/3eWVVWVhRT4fKfUiNZfF0D?si=ba575fe1100940b2) [songs](https://open.spotify.com/playlist/3tRZX70ZeAQXg0oO6fkPMD?si=41bd2c29b4c3471f)
+- 🚂 I'm Railfans
 
 <p align="left"> <a href="https://twitter.com/skydreams07" target="blank"><img src="https://img.shields.io/twitter/follow/skydreams07?logo=twitter&style=for-the-badge" alt="skydreams07" /></a> </p>
 
