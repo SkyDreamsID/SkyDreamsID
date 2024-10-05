@@ -18,6 +18,7 @@
 <a href="https://instagram.com/rifkiekap07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rifkiekap07" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@skydreamsid07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@skydreamsid07" height="30" width="40" /></a>
 <a href="https://discord.gg/AUrKZj7z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AUrKZj7z" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/31ook4eis6nesfq6g33hvzl2op6i?si=3db3da2cfacd4481"><img align="center" src="https://svgshare.com/i/1BBB.svg" alt="My Spotify" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
