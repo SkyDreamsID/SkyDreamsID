@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python
 - 🎮 I play [GTA SA-MP](https://jogjagamers.org/profile/116681-skydreams-ff/)
 - 🎵 I like [Electronic](https://open.spotify.com/playlist/3lS02yeXReP8RgCPkVPtbn?si=f74635b72aa94141) & [JPOP](https://open.spotify.com/playlist/3eWVVWVhRT4fKfUiNZfF0D?si=ba575fe1100940b2) [(Yunomi)](https://open.spotify.com/playlist/3tRZX70ZeAQXg0oO6fkPMD?si=41bd2c29b4c3471f&nd=1&dlsi=270bc1d3ef944ebb) [songs](https://open.spotify.com/playlist/5VKwdNbqOUzZ8ejk7k7GT3?si=a3bc16a2727442ea)
-- 🚂 I'm Railfans
+- 🚂 I'm [Railfans](https://www.instagram.com/galleryrep07/)
 
 <p align="left"> <a href="https://twitter.com/skydreams07" target="blank"><img src="https://img.shields.io/twitter/follow/skydreams07?logo=twitter&style=for-the-badge" alt="skydreams07" /></a> </p>
 
