@@ -32,6 +32,8 @@
 ### ☁️ Google Cloud Skills
 [![Google Cloud Skills Boost](https://img.shields.io/badge/GCP-Skills%20Boost-brightgreen?logo=googlecloud)](https://www.cloudskillsboost.google/public_profiles/2c38352a-93a2-46c4-aaf6-d36ea27962cd)
 
+[![Google Cloud Skills Boost](https://img.shields.io/badge/GCP-Skills%20Boost-brightgreen?logo=googlecloud)](https://www.skills.google/public_profiles/a5d1fd57-7038-4e2f-9fdb-14afda976ce0)
+
 > 🔗 Check out my Google Cloud Skills Boost profile with all earned badges & labs.
 
 ---
