@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rifki a.k.a SkyDreamsID</h1>
 <h3 align="center">🚀 Electronics, Multimedia, Music & Code Enthusiast</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Development;Audio+%26+Sound+Design;Google+Cloud+Enthusiast;Hobbyist+Photographer" alt="Typing SVG" />
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=450&lines=Electronics+Engineering+Student;Python+%26+Automation+Learner;Audio+%26+Sound+Design;Hobbyist+Photographer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skydreamsid&label=Profile%20views&color=0e75b6&style=flat" alt="skydreamsid" />
@@ -14,13 +14,12 @@
 - 🎓 Incoming **Electronics Engineering Student**
 - 🔧 Background in Automotive Engineering (TKR)
 - 💻 **OS:** Daily driver on Windows 10, often tinkering with Linux (Parrot/Mint)
-- 🌱 Currently learning **Python**, **Automation**, **Cloud Computing**, and **Software Development**
+- 🌱 Currently learning **Python**, **Automation**, and **Hardware Tinkering**
 - 📸 Hobbyist Photographer, Multimedia Enthusiast, and Media Archivist
 - 🎮 Gamer : [GTA SA-MP](https://jogjagamers.org/profile/116681-skydreams-ff/)
 - 🎛️ Sound Design & Audio Enthusiast (FL Studio, Serum, Sylenth1, MASSIVE, Kontakt, Nexus)
 - 🎵 Music Enthusiast : [Electronic](https://open.spotify.com/playlist/3lS02yeXReP8RgCPkVPtbn?si=f74635b72aa94141), [JPOP](https://open.spotify.com/playlist/3eWVVWVhRT4fKfUiNZfF0D?si=ba575fe1100940b2) and [Everything Else](https://www.last.fm/user/rifkiekap07)
 - 🚂 Railway Enthusiast : [Galleryrep07](https://www.instagram.com/galleryrep07/)
-- ☁️ Exploring **Google Cloud**, open-source projects, and new technologies
 
 ---
 
@@ -28,13 +27,13 @@
 
 <p align="center">
   <a href="https://github.com/SkyDreamsID/Shot-Sentinel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyDreamsID&repo=Shot-Sentinel&theme=dark" alt="Shot Sentinel" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyDreamsID&repo=Shot-Sentinel&theme=tokyonight" alt="Shot Sentinel" />
   </a>
 </p>
 
 ---
 
-### ☁️ Google Cloud Skills
+### ☁️ Google Cloud Skills (Swag Hunter 😎)
 [![Google Cloud Skills Boost](https://img.shields.io/badge/GCP-Skills%20Boost-brightgreen?logo=googlecloud)](https://www.cloudskillsboost.google/public_profiles/2c38352a-93a2-46c4-aaf6-d36ea27962cd)
 
 [![Google Cloud Skills Boost](https://img.shields.io/badge/GCP-Skills%20Boost-brightgreen?logo=googlecloud)](https://www.skills.google/public_profiles/a5d1fd57-7038-4e2f-9fdb-14afda976ce0)
@@ -79,11 +78,11 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skydreamsid&show_icons=true&locale=en&layout=compact" alt="skydreamsid" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skydreamsid&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="skydreamsid" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=skydreamsid&show_icons=true&locale=en" alt="skydreamsid" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skydreamsid&show_icons=true&locale=en&theme=tokyonight" alt="skydreamsid" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skydreamsid&" alt="skydreamsid" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skydreamsid&theme=tokyonight" alt="skydreamsid" />
 </p>
