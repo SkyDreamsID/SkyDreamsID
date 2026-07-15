@@ -26,10 +26,11 @@
 
 ### 🛡️ Featured Project
 
-- **Shot Sentinel**  
-  A utility designed to prevent photos and videos from being accidentally overwritten due to duplicate camera filenames.
-
-  🔗 https://github.com/SkyDreamsID/Shot-Sentinel
+<p align="center">
+  <a href="https://github.com/SkyDreamsID/Shot-Sentinel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyDreamsID&repo=Shot-Sentinel&theme=dark" alt="Shot Sentinel" />
+  </a>
+</p>
 
 ---
 
