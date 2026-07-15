@@ -78,11 +78,11 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skydreamsid&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="skydreamsid" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skydreamsid&show_icons=true&locale=en&layout=compact" alt="skydreamsid" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=skydreamsid&show_icons=true&locale=en&theme=tokyonight" alt="skydreamsid" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skydreamsid&show_icons=true&locale=en" alt="skydreamsid" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skydreamsid&theme=tokyonight" alt="skydreamsid" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skydreamsid" alt="skydreamsid" />
 </p>
